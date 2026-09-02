@@ -32,3 +32,21 @@ The board contains several sensors that can be used without external hardware.
 ## Bluetooth Low Energy (BLE)
 
 ## OV7675 Camera Interface
+## Note: Arduino IDE Installation
+
+Arduino IDE (Integrated Development Environment) is the official software used to write, compile, upload, and debug programs for Arduino boards.
+
+### Installation Procedure:
+
+- [ ] Downloaded Arduino IDE from the official Arduino website.
+- [ ] Installed the software on the computer.
+- [ ] Opened Arduino IDE after installation.
+- [ ] Installed the required board package for Arduino Nano 33 BLE Sense Lite.
+
+### Importance
+
+Arduino IDE acts as the interface between the computer and the Arduino board. It allows users to develop, test, and upload programs to the microcontroller.
+
+### Note:
+
+In Arduino IDE, install **Arduino Mbed OS Nano Boards**.
